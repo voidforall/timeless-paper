@@ -18,6 +18,9 @@
 ## Algorithms and Theoretical Computer Science
 
 - **On Computable Numbers, with an Application to the Entscheidungsproblem** (1937), Turing, A. M. [[pdf]](https://www.wolframscience.com/prizes/tm23/images/Turing.pdf)
+
+  ​
+
   This article set the limits of computer science. It defined the [Turing Machine](https://en.wikipedia.org/wiki/Turing_Machine), a model for all computations. On the other hand, it proved the undecidability of the [halting problem](https://en.wikipedia.org/wiki/Halting_problem) and [Entscheidungsproblem](https://en.wikipedia.org/wiki/Entscheidungsproblem) and by doing so found the limits of possible computation.
 
 
