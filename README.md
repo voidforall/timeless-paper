@@ -66,19 +66,20 @@
 
 ## Operating Systems
 
+- **The UNIX time-sharing system** (1974), Ritchie, D. M., & Thompson, K. [[pdf]](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
 
-
-
-
-
+  The [Unix](https://en.wikipedia.org/wiki/Unix) [operating system](https://en.wikipedia.org/wiki/Operating_system) and its principles were described in this paper. The main importance is not of the paper but of the operating system, which had tremendous effect on operating system and computer technology.
 
 ## Programming Languages
 
+- **The FORTRAN Automatic Coding System** (1957), Backus, J. W. et al. [[pdf]](http://archive.computerhistory.org/resources/text/Fortran/102663113.05.01.acc.pdf)
 
-
-
-
-
+  This paper describes the design and implementation of the first [FORTRAN](https://en.wikipedia.org/wiki/FORTRAN) compiler by the [IBM](https://en.wikipedia.org/wiki/IBM) team. Fortran is a [general-purpose](https://en.wikipedia.org/wiki/Domain-specific_programming_language), [procedural](https://en.wikipedia.org/wiki/Procedural_programming), [imperative programming](https://en.wikipedia.org/wiki/Imperative_programming) language that is especially suited to numeric computation and scientific computing.
 
 ## Software Engineering
+
+- **Software engineering: Report of a conference sponsored by the NATO science committee, Garimisch, Germany** (1968), Naur, P., & Randell, B.  [[pdf]](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF)
+
+  Conference of leading people in software field in 1968.
+  This paper defined the field of [Software engineering](https://en.wikipedia.org/wiki/Software_engineering)
 
