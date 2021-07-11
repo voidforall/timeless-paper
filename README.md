@@ -22,13 +22,9 @@
 
 
 
-
-
 ## Artificial Intelligence
 
 - **Deep learning** (2015), LeCun, Y., Bengio, Y., & Hinton, G. [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
-
-
 
 
 
@@ -40,15 +36,11 @@
 
 
 
-
-
 ## Computer Graphics
 
 - **Sketchpad a man-machine graphical communication system** (1964), Sutherland, I. E. [[pdf]](http://images.designworldonline.com.s3.amazonaws.com/CADhistory/Sketchpad_A_Man-Machine_Graphical_Communication_System_Jan63.pdf)
 
   One of the founding works on computer graphics.
-
-
 
 
 
@@ -60,23 +52,17 @@
 
 
 
-
-
 ## Computer Security
 
+- **New directions in cryptography** (1976), Diffie, W., & Hellman, M. [[pdf]](https://ee.stanford.edu/~hellman/publications/24.pdf)
 
-
-
-
-
+  Diffie and Hellman proposed the scheme of ["Diffie-Hellman key exchange"](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), with the idea of private key and public key. It set up the basis for the following authenticated [key-agreement](https://en.wikipedia.org/wiki/Key-agreement_protocol) protocols.
 
 ## Databases
 
+- **A relational model for large shared data banks** (1970), Codd, E. F. [[pdf]](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 
-
-
-
-
+  Codd introduced the [relational model](https://en.wikipedia.org/wiki/Relational_model) for database management to manage data using a structure and [relational algebra](https://en.wikipedia.org/wiki/Relational_algebra). It motivates [SQL](https://en.wikipedia.org/wiki/SQL) and integrates into all relational database management systems ([RDBMS](https://en.wikipedia.org/wiki/Relational_database#RDBMS)).
 
 ## Operating Systems
 
