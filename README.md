@@ -34,6 +34,10 @@
 
   This article introduced [*reduced instruction set computer* (*RISC*)](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) CPU design philosophy. RISC is a CPU design philosophy that favors a reduced, highly optimized set of simpler instructions, in contrast to [complex instruction set computer (CISC)](https://en.wikipedia.org/wiki/Complex_instruction_set_computer).
 
+- **A case for redundant arrays of inexpensive disks (RAID)** (1988), Patterson, D. A., Gibson, G., & Katz, R. H.  [[pdf]](https://inst.eecs.berkeley.edu//~n252/sp07/Papers/RAID-patterson.pdf)
+
+  ​
+
 
 
 ## Computer Graphics
@@ -49,6 +53,10 @@
 - **A protocol for packet network intercommunication** (1974), Cerf, V., & Kahn, R. [[pdf]](http://education.sigcomm.org/papers/ck74.pdf)
 
   This paper contains a lot of the ideas that later became TCP and IP, two foundational protocols that make up the Internet. Cerf and Kahn received the ACM Turning Award, in part for the work contained in this paper.
+
+- **End-To-End Arguments in System Design** (1984), Saltzer, J. H., Reed, D. P., & Clark, D. D. [[pdf]](http://education.sigcomm.org/papers/src84.pdf)
+
+  This paper presents the "end-to-end argument", a classic design principle widely used to guide the design of many of the Internet's protocols and systems.
 
 
 
